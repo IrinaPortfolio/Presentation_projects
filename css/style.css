@@ -659,7 +659,7 @@ Project Single
 }
 
 .project-details ul > li:first-child {
-  width: 80px;
+  width: 100px;
 }
 
 .project-details .devider {
@@ -875,15 +875,26 @@ margin-right: 24px;
   h1 {
     font-size: 26px;
   }
+
   #hero-text h5 {
     letter-spacing: 0;
   }
+
   #hero-text {
     padding-bottom: 60px;
     padding-top: 80px;
   }
+
   .h2,
   h2 {
     font-size: 22px;
   }
 }
+
+/* New */
+.btn.btn-invert.mgR-20px{
+  background-color: #00002d;
+  color: #fff;
+
+}
+
